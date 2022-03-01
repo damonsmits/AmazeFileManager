@@ -405,5 +405,6 @@ Anders wordt er naar een voorval gezocht.</string>
     <string name="blue">Blauw</string>
     <string name="green">Groen</string>
     <string name="close">Sluiten</string>
-    </resources>
+    <string name="convert_to_png">Converteer naar PNG</string>
+</resources>
 

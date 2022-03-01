@@ -676,5 +676,6 @@ Ana bilgisayar parmak izini güncellemeye devam edebilir veya SSH bağlantı aya
     <string name="legacy_listing_title">Root için eski listeyi kullan</string>
     <string name="legacy_listing_summary">Etkinleştirilirse, listeleme için stat kullanır, aksi takdirde ls kullanır</string>
     <string name="error_permission_denied">İzin reddedildi</string>
+    <string name="convert_to_png">Convert to png</string>
 </resources>
 

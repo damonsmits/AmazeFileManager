@@ -519,4 +519,5 @@
   <string name="bytes">Bytes</string>
   <!-- end of plurals -->
   <string name="no_name">Archivo debe tener un nombre</string>
+    <string name="convert_to_png">Convert to png</string>
 </resources>

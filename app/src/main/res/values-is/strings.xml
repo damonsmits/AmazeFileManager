@@ -651,5 +651,6 @@
     <!-- Storage description for a generic SD card. [CHAR LIMIT=NONE] -->
     <string name="storage_sd_card">SD-minniskort</string>
     <string name="choose_folder">Velja þessa möppu</string>
-    </resources>
+    <string name="convert_to_png">Convert to png</string>
+</resources>
 

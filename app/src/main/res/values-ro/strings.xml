@@ -270,5 +270,6 @@
   <!--FROM HERE ON STRINGS ARE EXCLUSIVELY USED IN plurals.xml-->
   <string name="item">Element</string>
   <string name="items">Elemente</string>
-  <!-- end of plurals -->
+    <string name="convert_to_png">Convert to png</string>
+    <!-- end of plurals -->
 </resources>

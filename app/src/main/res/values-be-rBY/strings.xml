@@ -514,5 +514,6 @@
   <string name="items">Элементы</string>
   <string name="byte_singular">байт</string>
   <string name="bytes">Байты</string>
-  <!-- end of plurals -->
+    <string name="convert_to_png">Convert to png</string>
+    <!-- end of plurals -->
 </resources>

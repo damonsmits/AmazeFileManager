@@ -372,5 +372,6 @@
     <string name="blue">Μπλε</string>
     <string name="green">Πράσινο</string>
     <string name="close">Κλείσιμο</string>
-    </resources>
+    <string name="convert_to_png">Convert to png</string>
+</resources>
 

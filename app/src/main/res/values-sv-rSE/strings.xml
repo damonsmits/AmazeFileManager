@@ -373,5 +373,6 @@ kommer annars att söka efter förekomster.</string>
     <string name="processing_file">Processar fil</string>
     <string name="current_speed">Nuvarande Hastighet</string>
     <string name="smb_launch_error">Du kommer att behöva kopiera den här filen till lagring för att öppna den</string>
-    </resources>
+    <string name="convert_to_png">Convert to png</string>
+</resources>
 

@@ -44,6 +44,7 @@
   <!-- reference to audio/video file -->
   <string name="exposure_time">എക്‌സ്പോഷർ സമയം</string>
   <string name="focal_length">ഫോക്കൽ ദൈർഘ്യം</string>
+    <string name="convert_to_png">Convert to png</string>
     <!-- reference to a document file -->
   <!-- %s will be replaced with either copied or moved -->
   <!-- reference to - 'Written #bytes out of #bytes' in process viewer -->

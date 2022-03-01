@@ -413,5 +413,6 @@
     <string name="no_name">Datoteka mora imeti ime</string>
     <string name="scp_port">Vrata</string>
     <string name="got_it">Razumem!</string>
-    </resources>
+    <string name="convert_to_png">Convert to png</string>
+</resources>
 

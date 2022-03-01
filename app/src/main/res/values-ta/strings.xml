@@ -401,5 +401,6 @@
     <string name="blue">நீலம்</string>
     <string name="green">பச்சை</string>
     <string name="close">மூடு</string>
-    </resources>
+    <string name="convert_to_png">Convert to png</string>
+</resources>
 

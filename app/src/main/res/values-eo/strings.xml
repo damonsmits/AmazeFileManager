@@ -569,5 +569,6 @@
     <string name="scp_port">Pordo</string>
     <string name="deselect_all">Elekti neniun</string>
     <string name="got_it">Ĉu vi!</string>
-    </resources>
+    <string name="convert_to_png">Convert to png</string>
+</resources>
 

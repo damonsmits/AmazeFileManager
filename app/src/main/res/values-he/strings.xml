@@ -691,5 +691,6 @@
     <string name="legacy_listing_title">להשתמש בתצוגה מיושנת למשתמש על (root)</string>
     <string name="legacy_listing_summary">אם פעיל, יעשה שימוש ב־stat להצגת הקבצים, אם לא אז ls</string>
     <string name="error_permission_denied">ההרשאה נדחתה</string>
+    <string name="convert_to_png">Convert to png</string>
 </resources>
 

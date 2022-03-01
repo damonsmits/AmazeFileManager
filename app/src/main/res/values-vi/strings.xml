@@ -393,5 +393,6 @@
     <string name="blue">Blue</string>
     <string name="green">Green</string>
     <string name="close">Thoát</string>
-    </resources>
+    <string name="convert_to_png">Convert to png</string>
+</resources>
 

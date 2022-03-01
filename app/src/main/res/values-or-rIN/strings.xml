@@ -30,7 +30,8 @@
   <!--Folder-->
   <string name="text">ଟେକ୍ସଟ୍</string>
   <string name="password">ପାସୱାର୍ଡ୍</string>
-  <!-- reference to file accessed date -->
+    <string name="convert_to_png">Convert to png</string>
+    <!-- reference to file accessed date -->
   <!-- reference to file modified date -->
   <!-- reference to audio/video file -->
     <!-- reference to a document file -->

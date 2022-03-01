@@ -688,5 +688,6 @@
     <string name="clear_open_file">Hapus cache</string>
     <string name="clear_open_file_summary">Kembalikan ke bawaan apl untuk membuka berkas</string>
     <string name="error_permission_denied">Perizinan ditolak</string>
+    <string name="convert_to_png">Convert to png</string>
 </resources>
 

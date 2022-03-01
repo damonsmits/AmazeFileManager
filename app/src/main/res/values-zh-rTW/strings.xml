@@ -635,5 +635,6 @@
     <!-- Storage description for a generic SD card. [CHAR LIMIT=NONE] -->
     <string name="storage_sd_card">SD卡</string>
     <string name="choose_folder">選擇此資料夾</string>
-    </resources>
+    <string name="convert_to_png">Convert to png</string>
+</resources>
 

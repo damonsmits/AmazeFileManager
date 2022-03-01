@@ -28,6 +28,8 @@ import static com.amaze.filemanager.ui.fragments.preference_fragments.Preference
 import static com.amaze.filemanager.ui.fragments.preference_fragments.PreferencesConstants.PREFERENCE_SHOW_THUMB;
 
 import java.io.File;
+import java.io.FileOutputStream;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
@@ -89,6 +91,8 @@ import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.content.pm.ResolveInfo;
 import android.content.res.Resources;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.media.RingtoneManager;
@@ -525,13 +529,25 @@ public class MainFragment extends Fragment
             }
           }
 
+          // Check if the whole selected list are .jpg or .jpeg formats, if not, hide convert to png option
+          for (int i5 = 0; i5 < positions.size(); i5++) {
+            if (! (positions.get(i5).toString().endsWith(".jpg") || positions.get(i5).toString().endsWith(".jpeg")) ) {
+              hideOption(R.id.converttopng, menu);
+            }
+          }
+
           return true; // Return false if nothing is done
         }
+
 
         // called when the user selects a contextual menu item
         public boolean onActionItemClicked(ActionMode mode, MenuItem item) {
           computeScroll();
           ArrayList<LayoutElementParcelable> checkedItems = adapter.getCheckedItems();
+
+//          popupMenu.getMenu().findItem(R.id.converttopng).setVisible((description.endsWith(".jpg")) || description.endsWith(".jpeg"));
+
+
           switch (item.getItemId()) {
             case R.id.openmulti:
               try {
@@ -670,6 +686,24 @@ public class MainFragment extends Fragment
               return true;
             case R.id.openwith:
               FileUtils.openFile(new File(checkedItems.get(0).desc), getMainActivity(), sharedPref);
+              return true;
+            case R.id.converttopng:
+              // Convert every checked item to .png
+              for (int i6 = 0; i6 < checkedItems.size(); i6++) {
+                File origin = new File(checkedItems.get(i6).generateBaseFile().getPath());
+                String[] parts = origin.getName().split("\\.");
+                File dest = new File(origin.getParent() + "/" + parts[0] + ".png");
+                Bitmap bmp = BitmapFactory.decodeFile(origin.getPath());
+                try {
+                  FileOutputStream out = new FileOutputStream(dest.getPath());
+                  bmp.compress(Bitmap.CompressFormat.PNG, 100, out);
+                  out.close();
+                  Toast.makeText(getActivity(),"PNG created", Toast.LENGTH_SHORT).show();
+                } catch (IOException e) {
+                  e.printStackTrace();
+                  Toast.makeText(getActivity(),"Failed to create PNG", Toast.LENGTH_SHORT).show();
+                }
+              }
               return true;
             case R.id.addshortcut:
               addShortcut(checkedItems.get(0));

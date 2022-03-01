@@ -712,5 +712,6 @@
     <string name="ftp_prompt_accept_first_start_saf_access">Since this is your first run of the FTP server, and you are using the device\'s internal storage as shared folder, please allow Amaze to access the storage using SAF.\n\n
 
 You only need to do this once, until the next time you select a new location for sharing.</string>
+    <string name="convert_to_png">Convert to png</string>
 </resources>
 

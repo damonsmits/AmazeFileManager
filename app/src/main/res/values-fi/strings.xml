@@ -533,5 +533,6 @@
     <string name="green">Vihreä</string>
     <string name="got_it">Selvä!</string>
     <string name="close">Sulje</string>
-    </resources>
+    <string name="convert_to_png">Convert to png</string>
+</resources>
 

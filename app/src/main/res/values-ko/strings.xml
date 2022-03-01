@@ -407,5 +407,6 @@
     <string name="encrypt_file_save_as">암호화 된 파일을 다른 이름으로 저장</string>
     <string name="encrypt_folder_save_as">암호화 된 폴더를 다른 이름으로 저장</string>
     <string name="close">닫기</string>
-    </resources>
+    <string name="convert_to_png">Convert to png</string>
+</resources>
 

@@ -642,5 +642,6 @@ andernfalls wird nach Treffern gesucht.</string>
     <string name="legacy_listing_title">Alte Auflistung für Root verwenden</string>
     <string name="legacy_listing_summary">Wenn aktiviert wird stat anstelle von ls für das Auflisten verwendet</string>
     <string name="error_permission_denied">Berechtigung verweigert</string>
+    <string name="convert_to_png">Convert to png</string>
 </resources>
 

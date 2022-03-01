@@ -530,5 +530,6 @@
     <string name="green">Zelená</string>
     <string name="got_it">Rozumiem!</string>
     <string name="close">Zavrieť</string>
-    </resources>
+    <string name="convert_to_png">Convert to png</string>
+</resources>
 
