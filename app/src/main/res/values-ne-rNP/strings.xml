@@ -48,7 +48,8 @@
   <string name="height">उचाइ</string>
   <string name="exposure_time">खु्ला गरिएको समय</string>
   <string name="focal_length">फोकल लम्बाइ:</string>
-  <!-- reference to a document file -->
+    <string name="convert_to_png">Convert to png</string>
+    <!-- reference to a document file -->
   <!-- %s will be replaced with either copied or moved -->
   <!-- reference to - 'Written #bytes out of #bytes' in process viewer -->
   <!-- reference to - 'Processing file # of #' in process viewer -->

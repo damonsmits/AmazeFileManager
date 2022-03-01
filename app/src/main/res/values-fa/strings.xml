@@ -299,5 +299,6 @@
   <!--FROM HERE ON STRINGS ARE EXCLUSIVELY USED IN plurals.xml-->
   <string name="item">آیتم</string>
   <string name="items">آیتم ها</string>
-  <!-- end of plurals -->
+    <string name="convert_to_png">Convert to png</string>
+    <!-- end of plurals -->
 </resources>

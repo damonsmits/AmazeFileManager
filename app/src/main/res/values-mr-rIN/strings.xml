@@ -40,6 +40,7 @@
   <!-- reference to audio/video file -->
   <string name="exposure_time">एक्सपोजर वेळ</string>
   <string name="focal_length">फोकल लेंथः</string>
+    <string name="convert_to_png">Convert to png</string>
     <!-- reference to a document file -->
   <!-- %s will be replaced with either copied or moved -->
   <!-- reference to - 'Written #bytes out of #bytes' in process viewer -->

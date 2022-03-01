@@ -377,5 +377,6 @@
 	<string name="items">Елементи</string>
 	
 	<string name="scp_port">Порт</string>
-    </resources>
+    <string name="convert_to_png">Convert to png</string>
+</resources>
 

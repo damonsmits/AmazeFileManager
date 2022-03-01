@@ -542,5 +542,6 @@ altrimenti verrà controllata solo l\'occorrenza.</string>
     <string name="green">Verde</string>
     <string name="got_it">Ottenuto!</string>
     <string name="close">Chiudi</string>
-    </resources>
+    <string name="convert_to_png">Convert to png</string>
+</resources>
 

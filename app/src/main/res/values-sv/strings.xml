@@ -641,5 +641,6 @@ Var god kontakta din systemadministratör eller skapa upp en ny anslutning för 
     <string name="archive_unsupported_or_corrupt">Kan inte öppna arkivet \"%s\". Antingen kan vi inte öppna det eller så är det skadat.</string>
     <string name="close">Stäng</string>
     <string name="hide_media">Dölj från media-browsers</string>
-    </resources>
+    <string name="convert_to_png">Convert to png</string>
+</resources>
 

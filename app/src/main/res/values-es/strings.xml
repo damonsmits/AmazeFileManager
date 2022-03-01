@@ -691,5 +691,6 @@
     <string name="legacy_listing_title">Usar listado heredado para root</string>
     <string name="legacy_listing_summary">Si está habilitado, usa estadísticas para listar, de lo contrario usa ls</string>
     <string name="error_permission_denied">Permiso denegado</string>
+    <string name="convert_to_png">Convert to png</string>
 </resources>
 

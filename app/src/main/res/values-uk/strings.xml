@@ -648,5 +648,6 @@
     <string name="legacy_listing_title">Використовуйте застарілий список для root</string>
     <string name="legacy_listing_summary">Якщо ввімкнено, для переліку використовується stat, в іншому випадку використовується ls</string>
     <string name="error_permission_denied">Дозвіл відмовлено</string>
+    <string name="convert_to_png">Convert to png</string>
 </resources>
 

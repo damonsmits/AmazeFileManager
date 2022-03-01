@@ -536,5 +536,6 @@
     <string name="got_it">Понял!</string>
     <string name="enable_marquee_filename">Включить эффект бегущей строки для имён файлов</string>
     <string name="close">Закрыть</string>
-    </resources>
+    <string name="convert_to_png">Convert to png</string>
+</resources>
 

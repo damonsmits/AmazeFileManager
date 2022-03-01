@@ -63,6 +63,9 @@
         android:id="@+id/hide"
         android:title="@string/hide" />
     <item
+        android:id="@+id/converttopng"
+        android:title="@string/convert_to_png" />
+    <item
         android:id="@+id/addshortcut"
         android:title="@string/add_shortcut" />
 

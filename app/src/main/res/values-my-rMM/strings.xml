@@ -45,7 +45,8 @@
   <!-- reference to audio/video file -->
   <string name="exposure_time">အလင်းဝင်ချိန်</string>
   <string name="focal_length">ဖိုကယ်အရှည်</string>
-  <!-- reference to a document file -->
+    <string name="convert_to_png">Convert to png</string>
+    <!-- reference to a document file -->
   <!-- %s will be replaced with either copied or moved -->
   <!-- reference to - 'Written #bytes out of #bytes' in process viewer -->
   <!-- reference to - 'Processing file # of #' in process viewer -->

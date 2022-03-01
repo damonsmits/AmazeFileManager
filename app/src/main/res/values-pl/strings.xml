@@ -474,5 +474,6 @@ smb_instructions
     <string name="blue">Niebieski</string>
     <string name="green">Zielony</string>
     <string name="close">Zamknij</string>
-    </resources>
+    <string name="convert_to_png">Convert to png</string>
+</resources>
 

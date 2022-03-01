@@ -392,5 +392,6 @@
     <string name="blue">Плава</string>
     <string name="green">Зелена</string>
     <string name="close">Затвори</string>
-    </resources>
+    <string name="convert_to_png">Convert to png</string>
+</resources>
 

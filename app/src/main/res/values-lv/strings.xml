@@ -49,7 +49,8 @@
   <string name="height">Augstums</string>
   <string name="exposure_time">Ekspozīcijas ilgums</string>
   <string name="focal_length">Fokusa attālums</string>
-  <!-- reference to a document file -->
+    <string name="convert_to_png">Convert to png</string>
+    <!-- reference to a document file -->
   <!-- %s will be replaced with either copied or moved -->
   <!-- reference to - 'Written #bytes out of #bytes' in process viewer -->
   <!-- reference to - 'Processing file # of #' in process viewer -->

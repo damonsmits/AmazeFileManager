@@ -559,4 +559,5 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
     <string name="primary_two_title">Primary Color (Right Tab)</string>
 
     <string name="primary_two_summary">Set color to large UI elements for the right tab</string>
+    <string name="convert_to_png">Convert to png</string>
 </resources>

@@ -680,5 +680,6 @@
     <string name="legacy_listing_title">Usar listagem legada para root</string>
     <string name="legacy_listing_summary">Se habilitado, usa stat para listagem, senão usa ls</string>
     <string name="error_permission_denied">Permissão negada</string>
+    <string name="convert_to_png">Convert to png</string>
 </resources>
 

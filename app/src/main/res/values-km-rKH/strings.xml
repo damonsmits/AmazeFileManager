@@ -48,7 +48,8 @@
   <string name="height">កម្ពស់</string>
   <string name="exposure_time">ពេលវេលា​បង្ហាញ</string>
   <string name="focal_length">ប្រវែង​ប្រសព្វ</string>
-  <!-- reference to a document file -->
+    <string name="convert_to_png">Convert to png</string>
+    <!-- reference to a document file -->
   <!-- %s will be replaced with either copied or moved -->
   <!-- reference to - 'Written #bytes out of #bytes' in process viewer -->
   <!-- reference to - 'Processing file # of #' in process viewer -->

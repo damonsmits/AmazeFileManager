@@ -640,5 +640,6 @@
     <string name="saf_otg_explanation">Biztonsági okokból most az Android fájlrendszerébe kell lépnie. Kérjük, válassza ki az USB eszközt a bal oldali listából.</string>
     <string name="archive_password_prompt">Írja be az archívum jelszavát:</string>
     <string name="close">Bezárás</string>
-    </resources>
+    <string name="convert_to_png">Convert to png</string>
+</resources>
 

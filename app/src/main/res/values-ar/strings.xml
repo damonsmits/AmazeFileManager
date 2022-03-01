@@ -341,5 +341,6 @@
     <string name="blue">أزرق</string>
     <string name="green">أخضر</string>
     <string name="close">إغلاق</string>
-    </resources>
+    <string name="convert_to_png">Convert to png</string>
+</resources>
 

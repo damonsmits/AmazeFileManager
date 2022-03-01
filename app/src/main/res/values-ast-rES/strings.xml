@@ -410,5 +410,6 @@ to ordenador.</li><li/><br/>\\n
     <string name="blue">Azul</string>
     <string name="green">Verde</string>
     <string name="close">Zarrar</string>
-    </resources>
+    <string name="convert_to_png">Convert to png</string>
+</resources>
 
